@@ -1,2 +1,2 @@
 
- lab2 lab2.cpp main.cpp
+g++ -o lab2 lab2.cpp main.cpp
